@@ -20,6 +20,12 @@ export default function Home() {
       </div>
 
       <div className="bg-gray-100 p-4 rounded-lg shadow-md mb-4 text-gray-700 text-xl">
+        <p className="text-gray-700 font-semibold text-3xl text-center">
+          🪙 19 coins
+        </p>
+      </div>
+
+      <div className="bg-gray-100 p-4 rounded-lg shadow-md mb-4 text-gray-700 text-xl">
         <h2 className="text-3xl">Goal: </h2>
         <p className="text-gray-700 font-semibold text-3xl text-center">
           22:00-06:00
