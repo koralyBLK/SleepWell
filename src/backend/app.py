@@ -42,10 +42,9 @@ model_groups = [
 ]
 
 model_items = {1: [
-    Item(id=1, title="Cool mug", imgUrl="/assets/img1.png", price=12),
-    Item(id=2, title="Second item", imgUrl="/assets/img1.png", price=25),
-    Item(id=3, title="Third item", imgUrl="/assets/img1.png", price=30),
-    Item(id=4, title="Fourth item", imgUrl="/assets/img1.png", price=40),
+    Item(id=1, title="Migros Carte Cadeau (10.-)", imgUrl="/assets/migros.png", price=12),
+    Item(id=2, title="Manor Carte Cadeau (20.-)", imgUrl="/assets/manor.png", price=25),
+    Item(id=3, title="1 Entrée Europa-Park", imgUrl="/assets/europa-park.png", price=30),
 ]}
 
 model_users = [
