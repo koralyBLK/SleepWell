@@ -28,10 +28,7 @@ export default function Home() {
         </p>
       </div>
       <div className="bg-gray-100 p-4 rounded-lg shadow-md mb-4 text-gray-700 text-xl">
-        <p>
-          The application will listen to your microphone to estimate your amount
-          of sleep. You will not get rewards for the night if you leave the app.
-        </p>
+        <p>You will not get rewards for the night if you leave the app.</p>
       </div>
 
       <div className="bg-gray-100 p-4 rounded-lg shadow-md mb-4 text-gray-700 text-xl">
